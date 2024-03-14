@@ -1,10 +1,12 @@
-# aiohttp-static--
+# aiohttp-static文件读取poc
 aiohttp-static-任意文件读取的poc
-**简介**
+# 简介
 aiohttp-static-任意文件读取漏洞
+
 使用fofa测绘测试
+
 收集资产
-**使用方法**
+# 使用方法
 
 
 ![Image](https://github.com/users/luse29/projects/1/assets/155654500/04e36fa6-0f1b-489d-9f38-09650bb9aa7f)
