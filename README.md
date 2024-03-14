@@ -9,12 +9,14 @@ aiohttp-static-任意文件读取漏洞
 # 使用方法
 
 
-![Image](https://github.com/users/luse29/projects/1/assets/155654500/04e36fa6-0f1b-489d-9f38-09650bb9aa7f)
+![1](https://github.com/luse29/aiohttp-static--/assets/155654500/fe8c7828-0124-4c8f-9978-f9191f29a4dc)
+
 
 直接使用即可
 
 
-![Image](https://github.com/users/luse29/projects/1/assets/155654500/1a215772-09be-4b7a-80b8-ed69313d5080)
+![2](https://github.com/luse29/aiohttp-static--/assets/155654500/45082dbf-3afd-4f43-9612-c0c3e74c32de)
+
 
 
 将收集到的url资产放在url.txt文件里，验证存在该漏洞的url则会保存在result.txt文件里面
